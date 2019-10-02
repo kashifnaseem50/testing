@@ -4,4 +4,4 @@ var x = path.normalize('Users/Refsnes/../Jackson');
 
 console.log(x);
 
-//comment
+//comment snotrht
